@@ -13,3 +13,12 @@ print("##########")
 print(f"##  {eyes}   {eyes} ##")
 print("##    _   ##")
 print("###########")
+
+name=input("Please enter your name")
+print()
+age=input("Please enter your age")
+print()
+height=input("Please enter your height")
+print()
+weight=input("Please enter your weight")
+
