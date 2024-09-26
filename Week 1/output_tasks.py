@@ -15,3 +15,9 @@ print("\" Displays a  double quote")
 print("\' Displays a single quote")
 print("\n")
 print("\t\"I am programming!\"")
+
+
+print("##########")
+print("##  #   # ##")
+print("##    _   ##")
+print("###########")
