@@ -29,3 +29,11 @@ if number % 2 == 0:
     print("This number is an even number!")
 else:
     print("This number is an odd number!")
+
+print("Please enter your first number")
+x = int(input())
+print("Please enter your second number")
+y = int(input())
+if(x>y):
+    print("The first number is greater than the second number!")
+
