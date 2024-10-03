@@ -58,3 +58,4 @@ if z % 2 == 0:
 else:
     count_odd += 1
 print(f"there were {count_even} even numbers and {count_odd} odd numbers")
+
