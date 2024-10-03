@@ -37,3 +37,24 @@ y = int(input())
 if(x>y):
     print("The first number is greater than the second number!")
 
+print("Please enter the first number")
+x=int(input())
+print("Please enter the second number")
+y=int(input())
+print("Please enter the third number")
+z=int(input())
+count_even = 0
+count_odd = 0
+if x % 2 == 0:
+    count_even += 1
+else:
+    count_odd += 1
+if y % 2 == 0:
+    count_even += 1
+else:
+    count_odd += 1
+if z % 2 == 0:
+    count_even += 1
+else:
+    count_odd += 1
+print(f"there were {count_even} even numbers and {count_odd} odd numbers")
