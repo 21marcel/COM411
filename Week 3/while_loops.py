@@ -24,3 +24,11 @@ while count <= bars:
     b="█"* count
     print(f"Charging {b}")
     count += 1
+
+count = 1
+print("Please enter a phrase:")
+phrase=input()
+
+for item in phrase:
+    count +=1
+    print("Hi",end=" ")
