@@ -32,3 +32,6 @@ phrase=input()
 for item in phrase:
     count +=1
     print("Hi",end=" ")
+
+print("Calculating the sum of the first 100 numbers...")
+num
