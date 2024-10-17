@@ -15,3 +15,4 @@ if code in range(32,127):
 else:
     print("Please enter a value between 32 and 126")
 print("Program Ended!")
+
