@@ -32,7 +32,7 @@ else:
 
 print("Please enter your first number")
 x = int(input())
-print("Please enter your second number")
+print("Ple ase enter your second number")
 y = int(input())
 if(x>y):
     print("The first number is greater than the second number!")
