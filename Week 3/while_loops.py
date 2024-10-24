@@ -34,4 +34,3 @@ for item in phrase:
     print("Hi",end=" ")
 
 print("Calculating the sum of the first 100 numbers...")
-num
