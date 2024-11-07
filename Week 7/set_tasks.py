@@ -25,3 +25,9 @@ def run_task2():
 
 run_task2()
 
+def observing_items():
+    observed = []
+
+    for i in range (5):
+        print("Please enter an observation")
+
